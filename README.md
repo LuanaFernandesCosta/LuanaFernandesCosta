@@ -1,15 +1,104 @@
-### Olá, eu sou a Luana Fernandes 👋
-<div align="center">
-  <a href="https://github.com/LuanaFernandesCosta">
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanaFernandesCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaFernandesCosta&layout=compact&langs_count=7&theme=dracula"/>
+**Olá! Eu sou a Luana Fernandes 👋**
 
+Analista de Qualidade Jr | Tecnologia | Java • SQL • Power BI
 
- 
-  <a href="https://instagram.com/luufernandescosta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
- 
-  ![Snake animation](https://github.com/LuanaFernandesCosta/LuanaFernandesCosta/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+Sou formada em Análise e Desenvolvimento de Sistemas e atualmente atuo como Analista de Qualidade Júnior na área de Tecnologia.
+
+Tenho experiência em Qualidade, processos, análise de informações e melhoria contínua, além de experiência prática com tecnologia por meio da minha atuação profissional e de projetos próprios.
+
+Minha trajetória combina diferentes áreas de conhecimento, incluindo desenvolvimento de sistemas, banco de dados, análise de dados, BI, processos e tecnologia.
+
+Estou constantemente desenvolvendo minhas habilidades e aberta a oportunidades em que minha experiência e conhecimentos possam contribuir e continuar evoluindo.
+
+⸻
+
+**💻 Tecnologias e conhecimentos**
+
+☕**Desenvolvimento**
+
+* Java
+* SQL
+* HTML
+* CSS
+* JavaScript
+
+**📊 Dados e BI**
+
+* Power BI
+* Excel
+* SQL
+* Análise de dados
+* Indicadores e dashboards
+
+📋**Qualidade e Processos**
+
+* Controle de qualidade
+* Processos
+* Regras de negócio
+* Documentação
+* Análise de não conformidades
+* Melhoria contínua
+
+⚙️**Tecnologia e Sistemas**
+
+* Desenvolvimento de sistemas
+* Banco de dados
+* Automação de processos
+* Implantação de soluções
+* Análise de requisitos
+
+⸻
+
+🚀 **Projetos**
+
+🖥️ **Sistema de Gestão — Java + SQL**
+
+Sistema desenvolvido para um setor empresarial, utilizando Java e SQL.
+
+O projeto possui documentação técnica e funcional, regras de negócio, estrutura do banco de dados e informações sobre as funcionalidades desenvolvidas.
+
+🔗 Ver projeto
+
+⸻
+
+📊 **Power BI**
+
+Projetos de dashboards e análise de dados utilizando Power BI, com foco em indicadores, tratamento de informações e visualização de dados.
+
+🔗 Ver projetos
+
+⸻
+
+🌐 **Desenvolvimento Web**
+
+Projeto pessoal desenvolvido para apresentação de serviços de desenvolvimento de websites e landing pages.
+
+🔗 Ver projeto
+
+⸻
+
+📚 **Atualmente estudando**
+
+* Desenvolvimento de software
+* Banco de dados e SQL
+* Qualidade de Software
+* Testes de software
+* Automação
+* Git e GitHub
+* BI e análise de dados
+
+⸻
+
+🎯 **Sobre minha carreira**
+
+Tenho interesse em oportunidades nas áreas de Tecnologia, Qualidade, Desenvolvimento, Dados/BI e áreas relacionadas, buscando ambientes em que eu possa utilizar minhas diferentes experiências e continuar evoluindo profissionalmente.
+
+⸻
+
+📫 **Onde me encontrar**
+
+[LinkedIn](https://www.linkedin.com/in/luana-fernandes-costa) • GitHub
+
+⸻
+
+⭐ Obrigada pela visita!
